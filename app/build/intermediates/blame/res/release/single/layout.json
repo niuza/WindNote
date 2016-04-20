@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\gone.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\gone.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\gridmenu.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\gridmenu.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\note.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\note.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\editkey.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\editkey.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\menuitem.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\menuitem.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\welcome.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\cancelkey.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\cancelkey.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\aboutme.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\aboutme.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\deletenote.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\deletenote.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\add.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\add.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\setkey.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\setkey.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\resetkey.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\resetkey.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\listitem.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\release\\layout\\griditem.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\layout\\griditem.xml"
+    }
+]

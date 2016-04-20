@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_pressed.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\grid_pressed.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_bg.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\list_bg.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_focused.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\list_focused.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pressed.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\list_pressed.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_focused.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\grid_focused.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_bg.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\grid_bg.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_bg.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\txt_bg.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_enabled.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\grid_enabled.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_enabled.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\list_enabled.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bg.xml",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\search_bg.xml"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\desc.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\desc.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\edit.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\add.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\say.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\say.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\skin.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\skin.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\key.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\key.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\grid.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\grid.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\lock.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\minus.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ok.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\ok.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gone.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\gone.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\save.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\plus.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\yes.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\yes.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\no.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\no.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\windnote_big.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\windnote_big.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\asc.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\asc.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\list.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\font.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\font.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\about.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\unlock.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\unlock.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cancel.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\delete.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\exit.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\refresh.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AS Project\\WindNote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\help.png",
+        "source": "D:\\AS Project\\WindNote\\app\\src\\main\\res\\drawable-xxhdpi\\help.png"
+    }
+]
